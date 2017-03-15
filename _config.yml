@@ -1,0 +1,8 @@
+title: A-Frame-Projekt
+description: Moderne Adaption der dritten Szene aus Bertolt Brechts Theaterstück 'Der gute Mensch von Sezuan'
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

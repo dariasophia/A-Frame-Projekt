@@ -1,0 +1,41 @@
+**_Unsere Projektidee_**
+
+Der Fokus unseres VR-Projekts liegt auf der dritten Szene aus Bertolt Brechts Theaterstück 'Der gute Mensch von Sezuan' und soll eine Adaption in die Moderne darstellen. Dabei sollen die fünf in der Szene vorkommenden Figuren (Sun, Shen Te, Frau I, Frau II & Wang), das Setting sowie die Sprache an das moderne Zeitalter angepasst werden. Die Handlung, im Folgenden erläutert, wird größtenteils übernommen und an einigen Stellen geringfügig verändert:
+
+Sun, ein ehemaliger Pilot, wurde aufgrund von Krankheit gekündigt. Von Hoffnungslosigkeit getrieben beschließt er, sich an einem verregneten Tag in einem Park das Leben zu nehmen. Zwei ehemalige Arbeitskollegen, die ihm im Park begegnen und verspotten, bekräftigen seinen Wunsch seinem Leben ein Ende zu setzen. Auch die Hauptprotagonistin Shen Te, eine junge, taffe Businessfrau, befindet sich zufällig im Park. Sie kommt mit Sun ins Gespräch und kann ihn schlussendlich davon abhalten, sich umzubringen. Eine weitere vorkommende Nebenfigur ist der Eisverkäufer Wang.
+
+Die darzustellende Szenerie soll vordergründig einen Park mit See, einem Teehaus, einer Brücke sowie einer Weide zeigen. Im Hintergrund sollen weitere Gebäude, welche den Umriss der Stadt aus der Ferne andeuten, umgesetzt werden. Zur Realisierung unseres Projekts werden sowohl vormodellierte 3D Objekte, wie zum Beispiel bei der Darstellung der Figuren, als auch mit 3Ds Max und Blender selbstmodellierte Objekte verwendet. Unsere Projektidee wird in einem Drehbuch festgehalten. Zum Schluss soll die Szene animiert und selbst synchronisiert werden.
+
+**_Verlauf und Fortschritt_**
+
+- Erstellen eines Drehbuchs ✔
+
+- Anfertigen einer Skizze ✔
+
+- Finden von vormodellierten Objekten ✔
+   
+    * Figuren (Sun, Shen Te, Kollege I, Kollegin II & Wang)
+    * Eiswagen
+    * Jacke
+    * Taschentuch
+    * Bäume
+    * Bank
+    * Flugzeug
+
+* Evtl. werden einige der oben aufgeführten Objekte im weiteren Arbeitsverlauf selbstständig modelliert. 
+
+
+- Objekte mit 3ds Max & Blender selbst modellieren ✔
+
+   * Eiscreme
+   * Teehaus
+   * Seil
+   * Parkboden
+   * See
+   * moderne Gebäude
+
+- Objekte in A-Frame laden
+
+- Synchronsprecher suchen (✔)
+
+
